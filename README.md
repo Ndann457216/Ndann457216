@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ndann457216
+- 👋 Hi, I’m @Hamdan
+- I'm a Network Engineering student at Gadjah Mada University
 - 👀 I’m interested in Full Stak Developer and Machine Learning
 - 🌱 I’m currently learning Data Scients
 - 💞️ I’m looking to collaborate on ...
